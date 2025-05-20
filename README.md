@@ -1,1 +1,3 @@
 I have created a native Kotlin app in android studio called Flashcard app. It is designed to help students study for history tests since they learn better with flashcards.It consists of 7 screens and 5 True/false questions. Each question gets its own screen and gives the user feedback at the bottom of the screen. The app also consists of a welcome screen in which you start the quiz and a review page in which you can either review the quiz or exit the app with the exit button.
+Here are screenshots of my app running in the emulator:
+![Welcome page ss](https://github.com/user-attachments/assets/3ef0f68d-09ad-4588-a70b-c602803a65ca)
