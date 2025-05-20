@@ -120,6 +120,9 @@ Here are some screenshots of the designer:
 
 ![Designer s7](https://github.com/user-attachments/assets/5bc2981f-7c3f-4017-9a5e-ce3eefc15fe0)
 
+Heres the link to my unlisted youtube video: https://youtu.be/6JuzjkMtx3o?feature=shared
+
+
 
 
 
